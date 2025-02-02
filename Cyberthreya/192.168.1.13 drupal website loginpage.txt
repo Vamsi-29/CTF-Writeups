@@ -1,0 +1,11 @@
+cyberthreya
+target -- 192.168.1.13 drupal based website
+1)did a nmap version,aggressive,tcp scan
+2)found some paths and visited one by one and found some information
+3)found that the page is running on php 
+4)casually tried sql injection since the page has login forums not worked
+5)tried to find the php version and by deeply observing the nmap scan report once again accidentally found it is running drupal version 7 
+6)searched for drupal 7 vulns in Metasploit and found vulns 
+7)filtered for required exploit (there is a webpage with login forms and running on php)
+8)casually tried filtered exploits and found a suitable exploit 
+9)entered into the machine and found flag.txt
