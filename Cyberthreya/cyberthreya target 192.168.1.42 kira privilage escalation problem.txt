@@ -1,0 +1,23 @@
+cyberthreya target 192.168.1.42
+
+1)started by performing a basic nmap scan 
+2)found ssh,http open ports 
+3)started inspecting http port in web browser 
+4)found that robots.txt is available while inspecting the webpage
+5)visited the robots.txt and found there a uploads folder which is visible to everyone and followed that folder path surprisingly found two more text files and other files 
+6)The two text files contains users names and some kind of passwords in it 
+7)From the previous nmap scan we can use ssh port 
+8)started attacking the ssh port with hydra and interestingly found the username and password 
+9)immediately logged in to the system 
+10)started searching for the files found the user.txt file
+11)in the user.txt file there is a encrypted line and some hint in the file exited 
+12)started crawling the directiories and finally found the flag.txt
+13)But the flag.txt is restricted to view by normal users we have to change to superuser to watch
+14)But the current user not have permission to change to superuser 
+15)Checked the all current users list (cat /etc/passwd/)it listed all the users interestingly in the webpage there is a line In which the user kira is the new root is mentioned 
+16)so tried to change the user to kira but it is asking password recalled previous info to check if any clues is given and remembered in the user.txt there a encypted line 
+16)Decypted the encrypted line and it is a base 64 encryption 
+17)the password for the user kira is kiraisevil
+18)logged in as kira and changed to super user root
+19)The flag.txt was opened sucessfully 
+ 
