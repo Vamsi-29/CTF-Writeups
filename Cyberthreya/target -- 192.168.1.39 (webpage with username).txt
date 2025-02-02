@@ -1,0 +1,12 @@
+target -- 192.168.1.39
+1)did a basic namp scan and found some open ports and the ip is running a website and checked the website for information 
+2)in the webpage source code found that there is a user named steve in the comments
+3)and there is two suspicious ports are there ftp and ssh are open
+4)interestingly in the source page ftp is mentioned 
+5)tried to brute force the ftp with hydra and pass list is rockyou.txt and user as steve
+6)successfully found the pass the pass is Andrew 
+7)with the credentials found logged into ftp server and found flag.txt 
+8)but cant able to access the flag.txt due to permission is not granted to download
+9)again went back and tried to brute force the ssh with hydra and pass list is rockyou.txt and user as steve
+10)amazingly the pass and username is same for ftp and ssh 
+11)connected to system using ssh and successfully retrived the flag.txt
