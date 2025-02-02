@@ -1,2 +1,2 @@
 # CTF-Writeups
-All types of CTF writesups 
+All types of Personally solved CTF writesups.
