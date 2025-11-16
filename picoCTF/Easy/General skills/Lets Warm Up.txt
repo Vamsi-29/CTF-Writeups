@@ -1,0 +1,24 @@
+Author : Tony_29 Type : General skills Complexity : Easy Lab name : Lets Warm Up
+
+Description 
+
+If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII? 
+
+Objective : 
+
+The goal was to convert the hexadecimal string into ASCII
+
+Execution :
+
+Step 1 :
+ * Copied the hexa decimal string from the description 
+ * The given value of the hexadecimal is 70
+Step 2 : (conversion)
+ * Used burp decoder tool for conversion
+ * Gave the value of the hex as 70 and the converted into ASCII it resulted "P"
+Step 3 : 
+ * By Using the hint found that the flag has to submit in a specific format 
+ * converted the result p into the given format picoCTF{p} 
+
+Flag : 
+picoCTF{p}

@@ -1,0 +1,24 @@
+Author : Tony_29 Type : General skills Complexity : Easy Lab name : Log Hunt 
+
+Lab description 
+
+Our server seems to be leaking pieces of a secret flag in its logs. The parts are scattered and sometimes repeated. Can you reconstruct the original flag? Download the logs and figure out the full flag from the fragments.
+
+Objectives 
+
+The goal was to analyze a server log file and to find the scattered flag parts and reconstruct the flag .
+
+Execution :
+Step 1 :
+ * Downloaded the log file from the given link 
+ * Opened it windows note pad 
+Step 2 :
+ * Started analyzing the logs and found a intresting log named " INFO FLAGPART "
+ * Used the notepad search option to find the logs with the same name 
+Step 3 : 
+ * Gathered all the flag parts and reconstructed it
+ * Sucessfully submitted the constructed flag
+
+
+Flag:
+picoCTF{us3_y0urlinux_sk1lls_cedfa5fb}
