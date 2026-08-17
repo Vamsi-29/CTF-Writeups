@@ -4,6 +4,7 @@ A collection of personally solved CTF challenges used to practice practical cybe
 
 ## Featured Writeups
 
+- [CyberThreya — Drupal 7 Login Page](Cyberthreya/Web/Drupal-7-Login-Page.md) — Nmap reconnaissance, Drupal version fingerprinting, vulnerability research, Metasploit-based exploitation, and post-exploitation enumeration.
 - [picoCTF — Irish-Name-Repo 3](picoCTF/Web%20Exploitation/Medium/Irish-Name-Repo%203.md) — UNION-based SQL injection, database enumeration, and credential extraction.
 
 ## Coverage
