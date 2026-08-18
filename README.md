@@ -7,6 +7,7 @@ A collection of personally solved CTF challenges used to practice practical cybe
 - [CyberThreya — Drupal 7 Login Page](Cyberthreya/Web/Drupal-7-Login-Page.md) — Nmap reconnaissance, Drupal version fingerprinting, vulnerability research, Metasploit-based exploitation, and post-exploitation enumeration.
 - [CyberThreya — Kira Privilege Escalation](Cyberthreya/Privilege-Escalation-Kira.md) — Web enumeration, exposed-file discovery, SSH credential reuse, Base64 decoding, local enumeration, and privilege escalation.
 - [picoCTF — Irish-Name-Repo 3](picoCTF/Web%20Exploitation/Medium/Irish-Name-Repo%203.md) — UNION-based SQL injection, database enumeration, and credential extraction.
+- [picoCTF — Forbidden Paths](picoCTF/Web%20Exploitation/Medium/Forbidden-Paths.md) — Path traversal through a file-reading function to bypass absolute-path filtering and retrieve the flag.
 
 ## Coverage
 
