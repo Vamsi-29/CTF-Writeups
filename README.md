@@ -13,6 +13,12 @@ A collection of personally solved CTF challenges used to practice practical cybe
 - [picoCTF — Irish-Name-Repo 3](picoCTF/Web%20Exploitation/Medium/Irish-Name-Repo%203.md) — UNION-based SQL injection, database enumeration, and credential extraction.
 - [picoCTF — Forbidden Paths](picoCTF/Web%20Exploitation/Medium/Forbidden-Paths.md) — Path traversal through a file-reading function to bypass absolute-path filtering and retrieve the flag.
 
+## Practice Labs
+
+The following section contains **self-created CTF-style practice scenarios** for documenting cybersecurity concepts. These are intentionally separate from verified solved CTF writeups and are not presented as official challenge solutions or personal achievements.
+
+- [Linux Privilege Escalation — SUID Misconfiguration](RingZero/Practice-Labs/Linux-Privilege-Escalation/SUID-Misconfiguration.md) — SUID enumeration, binary analysis, unsafe command lookup, PATH manipulation, exploitation flow, and remediation.
+
 ## Coverage
 
 - 🌐 Web exploitation
@@ -20,6 +26,7 @@ A collection of personally solved CTF challenges used to practice practical cybe
 - 🕵️ Forensics
 - 🌐 Network security
 - 🧩 Miscellaneous security challenges
+- 🐧 Linux privilege escalation
 
 ## Platforms / Events
 
@@ -41,4 +48,4 @@ Where applicable, writeups document:
 
 The purpose is to demonstrate **methodology and problem-solving**, not simply record completed challenges.
 
-> CTF content is performed in authorized challenge environments.
+> CTF content is performed in authorized challenge environments. Practice-lab content is clearly separated from verified solved challenges.
