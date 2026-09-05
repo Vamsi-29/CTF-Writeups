@@ -7,7 +7,7 @@ A collection of personally solved CTF challenges used to practice practical cybe
 - [CyberThreya — Drupal 7 Login Page](Cyberthreya/Web/Drupal-7-Login-Page.md) — Nmap reconnaissance, Drupal version fingerprinting, vulnerability research, Metasploit-based exploitation, and post-exploitation enumeration.
 - [CyberThreya — Kira Privilege Escalation](Cyberthreya/Privilege-Escalation-Kira.md) — Web enumeration, exposed-file discovery, SSH credential reuse, Base64 decoding, local enumeration, and privilege escalation.
 - [CyberThreya — Web Recon, FTP Access, and SSH Credential Reuse](Cyberthreya/Web-Recon-FTP-SSH-Credential-Reuse.md) — Source-code reconnaissance, exposed-service analysis, credential discovery, FTP enumeration, credential reuse, and SSH-based flag retrieval.
-- [CyberThreya — Web Source Disclosure and FTP/SSH Credential Reuse](CyberThreya/Web-Source-Disclosure-FTP-SSH-Credential-Reuse.md) — HTML source inspection, exposed-service analysis, credential discovery, credential reuse, and SSH-based flag retrieval.
+- [CyberThreya — Web Source Disclosure and FTP/SSH Credential Reuse](Cyberthreya/Web-Source-Disclosure-FTP-SSH-Credential-Reuse.md) — HTML source inspection, exposed-service analysis, credential discovery, credential reuse, and SSH-based flag retrieval.
 - [CyberThreya — 192.168.1.39 FTP/SSH Credential Reuse](Cyberthreya/Web/FTP-SSH-Credential-Reuse-192.168.1.39.md) — Web source inspection, username disclosure, FTP enumeration, credential discovery, permission analysis, SSH credential reuse, and flag retrieval.
 - [picoCTF — Crack the Gate 1](picoCTF/Web%20Exploitation/Easy/Crack-the-Gate-1.md) — HTML source inspection, ROT13 decoding, hidden HTTP-header discovery, and authentication-flow manipulation.
 - [picoCTF — Inspect HTML](picoCTF/Web%20Exploitation/Easy/Inspect-HTML.md) — HTML source inspection and information-disclosure analysis.
@@ -21,6 +21,7 @@ The following section contains **self-created CTF-style practice scenarios** for
 
 - [Linux Privilege Escalation — SUID Misconfiguration](RingZero/Practice-Labs/Linux-Privilege-Escalation/SUID-Misconfiguration.md) — SUID enumeration, binary analysis, unsafe command lookup, PATH manipulation, exploitation flow, and remediation.
 - [Reverse Engineering — Static License Check](Practice-Labs/Reverse-Engineering/Static-License-Check.md) — Static binary analysis, input-to-comparison data flow, transformation recovery, GDB reconnaissance, and secure validation design.
+- [Network Security — DNS Exfiltration PCAP](Practice-Labs/Network-Security/DNS-Exfiltration-PCAP.md) — DNS traffic analysis, encoded-query detection, fragment reconstruction, PCAP investigation, and defensive monitoring.
 
 ## Coverage
 
