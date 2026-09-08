@@ -14,6 +14,7 @@ A collection of personally solved CTF challenges used to practice practical cybe
 - [picoCTF — Irish-Name-Repo 3](picoCTF/Web%20Exploitation/Medium/Irish-Name-Repo%203.md) — UNION-based SQL injection, database enumeration, and credential extraction.
 - [picoCTF — Forbidden Paths](picoCTF/Web%20Exploitation/Medium/Forbidden-Paths.md) — Path traversal through a file-reading function to bypass absolute-path filtering and retrieve the flag.
 - [picoCTF — JAuth](picoCTF/Medium/Web%20exploitation/JAuth.md) — JWT cookie analysis, weak signature validation, `alg: none` manipulation, role modification, and privilege escalation.
+- [picoCTF — Java Code Analysis](picoCTF/Medium/Web%20exploitation/Java-Code-Analysis.md) — Source-code review, JWT claim analysis, weak signing-secret discovery, token forgery, and privilege escalation.
 
 ## Practice Labs
 
