@@ -25,6 +25,7 @@ The following section contains **self-created CTF-style practice scenarios** for
 - [Linux Privilege Escalation — SUID Misconfiguration](RingZero/Practice-Labs/Linux-Privilege-Escalation/SUID-Misconfiguration.md) — SUID enumeration, binary analysis, unsafe command lookup, PATH manipulation, exploitation flow, and remediation.
 - [Reverse Engineering — Static License Check](Practice-Labs/Reverse-Engineering/Static-License-Check.md) — Static binary analysis, input-to-comparison data flow, transformation recovery, GDB reconnaissance, and secure validation design.
 - [Network Security — DNS Exfiltration PCAP](Practice-Labs/Network-Security/DNS-Exfiltration-PCAP.md) — DNS traffic analysis, encoded-query detection, fragment reconstruction, PCAP investigation, and defensive monitoring.
+- [Forensics — PDF Embedded Object Analysis](Practice-Labs/Forensics/PDF-Embedded-Object-Analysis.md) — PDF object enumeration, embedded-file identification, safe stream extraction, file-type validation, hashing, and forensic handling.
 
 ## Coverage
 
