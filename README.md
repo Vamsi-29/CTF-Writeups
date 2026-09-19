@@ -22,6 +22,7 @@ A collection of personally solved CTF challenges used to practice practical cybe
 The following section contains **self-created CTF-style practice scenarios** for documenting cybersecurity concepts. These are intentionally separate from verified solved CTF writeups and are not presented as official challenge solutions or personal achievements.
 
 - [Web Exploitation — IDOR Authorization Bypass](Practice-Labs/Web/IDOR-Authorization-Bypass.md) — Object-level authorization testing, authenticated API request analysis, identifier manipulation, horizontal access-control validation, and remediation.
+- [Web Exploitation — SSRF Local Service Discovery](Practice-Labs/Web/SSRF-Local-Service-Discovery.md) — Server-side URL fetching, loopback reachability, trust-boundary validation, controlled SSRF testing, and remediation.
 - [Linux Privilege Escalation — SUID Misconfiguration](RingZero/Practice-Labs/Linux-Privilege-Escalation/SUID-Misconfiguration.md) — SUID enumeration, binary analysis, unsafe command lookup, PATH manipulation, exploitation flow, and remediation.
 - [Reverse Engineering — Static License Check](Practice-Labs/Reverse-Engineering/Static-License-Check.md) — Static binary analysis, input-to-comparison data flow, transformation recovery, GDB reconnaissance, and secure validation design.
 - [Network Security — DNS Exfiltration PCAP](Practice-Labs/Network-Security/DNS-Exfiltration-PCAP.md) — DNS traffic analysis, encoded-query detection, fragment reconstruction, PCAP investigation, and defensive monitoring.
