@@ -13,6 +13,7 @@ A collection of personally solved CTF challenges used to practice practical cybe
 - [picoCTF — Inspect HTML](picoCTF/Web%20Exploitation/Easy/Inspect-HTML.md) — HTML source inspection and information-disclosure analysis.
 - [picoCTF — Log Hunt](picoCTF/Easy/General%20skills/Log-Hunt.md) — Server-log filtering, `INFO FLAGPART` identification, fragment collection, duplicate handling, and flag reconstruction.
 - [picoCTF — Lets Warm Up](picoCTF/Easy/General%20skills/Lets-Warm-Up.md) — Hexadecimal-to-ASCII conversion, command-line verification, and CTF flag-format handling.
+- [picoCTF — findme](picoCTF/Medium/Web%20exploitation/Findme.md) — Burp Suite traffic interception, HTTP redirect analysis, Base64 fragment reconstruction, and flag decoding.
 - [picoCTF — Irish-Name-Repo 1](picoCTF/Medium/Web%20exploitation/Irish-Name-Repo-1.md) — Burp Suite request analysis, debug-parameter discovery, SQL query disclosure, SQL injection authentication bypass, and defensive remediation.
 - [picoCTF — Irish-Name-Repo 3](picoCTF/Web%20Exploitation/Medium/Irish-Name-Repo%203.md) — UNION-based SQL injection, database enumeration, and credential extraction.
 - [picoCTF — Forbidden Paths](picoCTF/Web%20Exploitation/Medium/Forbidden-Paths.md) — Path traversal through a file-reading function to bypass absolute-path filtering and retrieve the flag.
