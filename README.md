@@ -29,11 +29,12 @@ The following section contains **self-created CTF-style practice scenarios** for
 - [Cryptography — AES-CBC Bit Flipping](Practice-Labs/Cryptography/AES-CBC-Bit-Flipping.md) — CBC block analysis, ciphertext manipulation, XOR mask calculation, authorization-state tampering, and authenticated-encryption remediation.
 - [Forensics — PNG LSB Steganography](Practice-Labs/Forensics/PNG-LSB-Steganography.md) — PNG metadata triage, RGB least-significant-bit extraction, byte reconstruction, hidden-data validation, and evidence hashing.
 - [Forensics — Windows Event Log Timeline Analysis](Practice-Labs/Forensics/Windows-Event-Log-Timeline.md) — Windows authentication, process-creation, and PowerShell telemetry correlation for timeline reconstruction.
+- [Forensics — PDF Embedded Object Analysis](Practice-Labs/Forensics/PDF-Embedded-Object-Analysis.md) — PDF object enumeration, embedded-file identification, safe stream extraction, file-type validation, hashing, and forensic handling.
+- [Network Security — TCP Service Enumeration and Banner Analysis](Practice-Labs/Networking/TCP-Service-Enumeration.md) — TCP service discovery, version detection, HTTP response validation, banner analysis, evidence collection, and investigation planning.
+- [Network Security — DNS Exfiltration PCAP](Practice-Labs/Network-Security/DNS-Exfiltration-PCAP.md) — DNS traffic analysis, encoded-query detection, fragment reconstruction, PCAP investigation, and defensive monitoring.
 - [Linux Privilege Escalation — SUID Misconfiguration](RingZero/Practice-Labs/Linux-Privilege-Escalation/SUID-Misconfiguration.md) — SUID enumeration, binary analysis, unsafe command lookup, PATH manipulation, exploitation flow, and remediation.
 - [Reverse Engineering — Static License Check](Practice-Labs/Reverse-Engineering/Static-License-Check.md) — Static binary analysis, input-to-comparison data flow, transformation recovery, GDB reconnaissance, and secure validation design.
 - [Reverse Engineering — ELF Checksum Gate](Practice-Labs/Reverse-Engineering/ELF-Checksum-Gate.md) — ELF reconnaissance, disassembly, input-validation data flow, reversible XOR/rotation analysis, GDB validation, and Python reproduction.
-- [Network Security — DNS Exfiltration PCAP](Practice-Labs/Network-Security/DNS-Exfiltration-PCAP.md) — DNS traffic analysis, encoded-query detection, fragment reconstruction, PCAP investigation, and defensive monitoring.
-- [Forensics — PDF Embedded Object Analysis](Practice-Labs/Forensics/PDF-Embedded-Object-Analysis.md) — PDF object enumeration, embedded-file identification, safe stream extraction, file-type validation, hashing, and forensic handling.
 
 ## Coverage
 
