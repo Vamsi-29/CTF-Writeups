@@ -4,6 +4,7 @@ A collection of personally solved CTF challenges used to practice practical cybe
 
 ## Featured Writeups
 
+- [PCAP/XOR Forensics — Agent Configuration Analysis](Forensics/PCAP-XOR-Agent-Config-Analysis.md) — Wireshark protocol analysis, HTTP/FTP artifact extraction, `agent_config.json` investigation, single-byte XOR analysis, and payload validation.
 - [picoCTF — Java Code Analysis (detailed)](picoCTF/Medium/Web%20exploitation/Java-Code-Analysis-Professional.md) — Detailed source-code review, JWT claim analysis, hard-coded signing-secret discovery, token forgery, privilege escalation, and defensive remediation.
 - [picoCTF — Java Code Analysis](picoCTF/Medium/Web%20exploitation/Java-Code-Analysis.md) — Source-code review, JWT claim analysis, signing-secret discovery, token forgery, and privilege escalation.
 - [picoCTF — Roboto Sans](picoCTF/Medium/Web%20exploitation/Roboto-Sans.md) — Web enumeration, `robots.txt` inspection, Base64 decoding, hidden-resource discovery, and flag retrieval.
