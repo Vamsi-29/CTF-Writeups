@@ -38,6 +38,7 @@ The following section contains **self-created CTF-style practice scenarios** for
 - [Linux Privilege Escalation — Docker Socket Misconfiguration](Practice-Labs/Linux-Privilege-Escalation/Docker-Socket-Misconfiguration.md) — Docker-group enumeration, daemon authorization analysis, controlled container-to-host boundary validation, evidence collection, and remediation.
 - [Reverse Engineering — Static License Check](Practice-Labs/Reverse-Engineering/Static-License-Check.md) — Static binary analysis, input-to-comparison data flow, transformation recovery, GDB reconnaissance, and secure validation design.
 - [Reverse Engineering — ELF Checksum Gate](Practice-Labs/Reverse-Engineering/ELF-Checksum-Gate.md) — ELF reconnaissance, disassembly, input-validation data flow, reversible XOR/rotation analysis, GDB validation, and Python reproduction.
+- [Reverse Engineering — ELF String Obfuscation](Practice-Labs/Reverse-Engineering/ELF-String-Obfuscation.md) — Static ELF triage, disassembly, reversible XOR/rotation analysis, Python reproduction, and GDB validation.
 
 ## Coverage
 
