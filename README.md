@@ -18,6 +18,12 @@ A collection of personally solved CTF challenges used to practice practical cybe
 - [picoCTF — Log Hunt](picoCTF/Easy/General%20skills/Log-Hunt.md) — Server-log filtering, `INFO FLAGPART` identification, fragment collection, duplicate handling, and flag reconstruction.
 - [picoCTF — Lets Warm Up](picoCTF/Easy/General%20skills/Lets-Warm-Up.md) — Hexadecimal-to-ASCII conversion, command-line verification, and CTF flag-format handling.
 
+## CyberThreya Writeups
+
+- [Drupal 7 Login-Page Exploitation](Cyberthreya/Web/Drupal-7-Login-Page.md) — Service enumeration, Drupal version identification, Metasploit module selection, and exploitation in the challenge environment.
+- [Kira Privilege Escalation](Cyberthreya/Privilege-Escalation-Kira.md) — Web reconnaissance, exposed upload-directory artifacts, SSH credential discovery, Base64 clue analysis, and privilege escalation.
+- [FTP/SSH Credential Reuse](Cyberthreya/Web/FTP-SSH-Credential-Reuse-192.168.1.39.md) — Source-code information disclosure, FTP credential discovery, cross-service credential reuse, and SSH-based flag retrieval.
+
 ## Practice Labs
 
 The following section contains **self-created CTF-style practice scenarios** for documenting cybersecurity concepts. These are intentionally separate from verified solved CTF writeups and are not presented as official challenge solutions or personal achievements.
